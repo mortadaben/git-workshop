@@ -19,6 +19,7 @@ git log ( display the history of all commits)
 
 
 
+to commit something ==> git commit -m " your comment"
 
 
 
