@@ -1,0 +1,31 @@
+creation of a git repo " git init "
+
+
+
+add to staged " first save than, ==> git add fileName.extention
+
+
+
+skipe staged ==> git commit -am "commit name"
+
+
+
+to untrack some files ignore tracking ==> add the path of the file in .gitignore tab
+
+
+
+
+git log ( display the history of all commits)
+
+
+
+
+
+
+
+
+
+
+
+
+
